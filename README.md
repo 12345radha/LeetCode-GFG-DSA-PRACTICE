@@ -35,4 +35,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/12345radha/Leetcode_Practice/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+## Depth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/12345radha/Leetcode_Practice/tree/master/0547-number-of-provinces) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/12345radha/Leetcode_Practice/tree/master/0547-number-of-provinces) |
+## Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/12345radha/Leetcode_Practice/tree/master/0547-number-of-provinces) |
+## Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/12345radha/Leetcode_Practice/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
