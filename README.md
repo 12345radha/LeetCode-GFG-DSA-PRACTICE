@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0130-surrounded-regions](https://github.com/12345radha/Leetcode_Practice/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/12345radha/Leetcode_Practice/tree/master/0200-number-of-islands) |
+| [1206-corporate-flight-bookings](https://github.com/12345radha/Leetcode_Practice/tree/master/1206-corporate-flight-bookings) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/12345radha/Leetcode_Practice/tree/master/2144-maximum-difference-between-increasing-elements) |
 ## Simulation
 |  |
@@ -64,4 +65,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0130-surrounded-regions](https://github.com/12345radha/Leetcode_Practice/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/12345radha/Leetcode_Practice/tree/master/0200-number-of-islands) |
+## Prefix Sum
+|  |
+| ------- |
+| [1206-corporate-flight-bookings](https://github.com/12345radha/Leetcode_Practice/tree/master/1206-corporate-flight-bookings) |
 <!---LeetCode Topics End-->
