@@ -1,31 +1,26 @@
-import java.util.*;
-
 class Solution {
-    public ArrayList<Integer> dfs(ArrayList<ArrayList<Integer>> adj) {
-        int n = adj.size();
-        boolean[] vis = new boolean[n];
-        ArrayList<Integer> result = new ArrayList<>();
-        Stack<Integer> st = new Stack<>();
-
-        st.push(0);
-
-        while (!st.isEmpty()) {
-            int node = st.pop();
-
-            if (!vis[node]) {
-                vis[node] = true;
-                result.add(node);
-
-                // Push neighbors in reverse order for DFS
-                for (int i = adj.get(node).size() - 1; i >= 0; i--) {
-                    int neighbor = adj.get(node).get(i);
-                    if (!vis[neighbor]) {
-                        st.push(neighbor);
-                    }
-                }
+    // Function to return a list containing the DFS traversal of the graph.
+    private void dfsT(int node,boolean[] vis,ArrayList<Integer> res,
+    ArrayList<ArrayList<Integer>> adj)
+    {
+        vis[node]=true;
+        res.add(node);
+        
+        for(Integer x:adj.get(node))
+        {
+            if(vis[x]==false)
+            {
+                dfsT(x,vis,res,adj);
             }
         }
-
-        return result;
+    }
+    public ArrayList<Integer> dfs(ArrayList<ArrayList<Integer>> adj) {
+        // Code here
+        int n=adj.size();
+        boolean[] vis=new boolean[n];
+        ArrayList<Integer> res=new ArrayList<>();
+        
+        dfsT(0,vis,res,adj);
+        return res;
     }
 }
