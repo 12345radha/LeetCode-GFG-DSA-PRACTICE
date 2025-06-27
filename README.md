@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/12345radha/Leetcode_Practice/tree/master/0202-happy-number) |
 | [2128-reverse-prefix-of-word](https://github.com/12345radha/Leetcode_Practice/tree/master/2128-reverse-prefix-of-word) |
 ## String
 |  |
@@ -69,4 +70,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1206-corporate-flight-bookings](https://github.com/12345radha/Leetcode_Practice/tree/master/1206-corporate-flight-bookings) |
+## Hash Table
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/12345radha/Leetcode_Practice/tree/master/0202-happy-number) |
+## Math
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/12345radha/Leetcode_Practice/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
