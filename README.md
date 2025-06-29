@@ -42,12 +42,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/12345radha/Leetcode_Practice/tree/master/0100-same-tree) |
 | [0130-surrounded-regions](https://github.com/12345radha/Leetcode_Practice/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/12345radha/Leetcode_Practice/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/12345radha/Leetcode_Practice/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/12345radha/Leetcode_Practice/tree/master/0100-same-tree) |
 | [0130-surrounded-regions](https://github.com/12345radha/Leetcode_Practice/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/12345radha/Leetcode_Practice/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/12345radha/Leetcode_Practice/tree/master/0547-number-of-provinces) |
@@ -78,4 +80,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/12345radha/Leetcode_Practice/tree/master/0202-happy-number) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/12345radha/Leetcode_Practice/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/12345radha/Leetcode_Practice/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
