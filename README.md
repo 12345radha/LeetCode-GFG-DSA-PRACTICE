@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0155-min-stack](https://github.com/12345radha/Leetcode_Practice/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/12345radha/Leetcode_Practice/tree/master/0232-implement-queue-using-stacks) |
+| [1023-time-based-key-value-store](https://github.com/12345radha/Leetcode_Practice/tree/master/1023-time-based-key-value-store) |
 ## Queue
 |  |
 | ------- |
@@ -26,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [1023-time-based-key-value-store](https://github.com/12345radha/Leetcode_Practice/tree/master/1023-time-based-key-value-store) |
 | [2128-reverse-prefix-of-word](https://github.com/12345radha/Leetcode_Practice/tree/master/2128-reverse-prefix-of-word) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/12345radha/Leetcode_Practice/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 ## Array
@@ -76,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/12345radha/Leetcode_Practice/tree/master/0202-happy-number) |
+| [1023-time-based-key-value-store](https://github.com/12345radha/Leetcode_Practice/tree/master/1023-time-based-key-value-store) |
 ## Math
 |  |
 | ------- |
@@ -88,4 +91,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/12345radha/Leetcode_Practice/tree/master/0100-same-tree) |
+## Binary Search
+|  |
+| ------- |
+| [1023-time-based-key-value-store](https://github.com/12345radha/Leetcode_Practice/tree/master/1023-time-based-key-value-store) |
 <!---LeetCode Topics End-->
