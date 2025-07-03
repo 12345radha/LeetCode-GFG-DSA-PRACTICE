@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/12345radha/Leetcode_Practice/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/12345radha/Leetcode_Practice/tree/master/0151-reverse-words-in-a-string) |
 | [1023-time-based-key-value-store](https://github.com/12345radha/Leetcode_Practice/tree/master/1023-time-based-key-value-store) |
 | [1078-remove-outermost-parentheses](https://github.com/12345radha/Leetcode_Practice/tree/master/1078-remove-outermost-parentheses) |
@@ -40,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/12345radha/Leetcode_Practice/tree/master/0014-longest-common-prefix) |
 | [0130-surrounded-regions](https://github.com/12345radha/Leetcode_Practice/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/12345radha/Leetcode_Practice/tree/master/0200-number-of-islands) |
 | [0594-longest-harmonious-subsequence](https://github.com/12345radha/Leetcode_Practice/tree/master/0594-longest-harmonious-subsequence) |
@@ -122,4 +124,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2032-largest-odd-number-in-string](https://github.com/12345radha/Leetcode_Practice/tree/master/2032-largest-odd-number-in-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/12345radha/Leetcode_Practice/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
