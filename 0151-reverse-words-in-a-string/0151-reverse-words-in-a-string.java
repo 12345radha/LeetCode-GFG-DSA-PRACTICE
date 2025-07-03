@@ -19,6 +19,7 @@ class Solution {
             res.append(s.substring(j + 1, i + 1));
 
             // Add space only if more words are left
+            if(j>0)
             res.append(" ");
 
             // Move to the next word
