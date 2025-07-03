@@ -18,14 +18,13 @@ class Solution {
                 if(tmp.charAt(i)==ch)
                 cnt++;
                 else
-                break;
+                return res;
             }
             if(cnt==strs.length)
             {
                 res+=ch;
             }
-            else
-            break;
+           
         }
         return res;
     }
