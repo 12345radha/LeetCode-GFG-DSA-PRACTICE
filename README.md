@@ -23,12 +23,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/12345radha/Leetcode_Practice/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/12345radha/Leetcode_Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/12345radha/Leetcode_Practice/tree/master/0202-happy-number) |
 | [2128-reverse-prefix-of-word](https://github.com/12345radha/Leetcode_Practice/tree/master/2128-reverse-prefix-of-word) |
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/12345radha/Leetcode_Practice/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/12345radha/Leetcode_Practice/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/12345radha/Leetcode_Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/12345radha/Leetcode_Practice/tree/master/0205-isomorphic-strings) |
@@ -133,4 +135,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/12345radha/Leetcode_Practice/tree/master/0014-longest-common-prefix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/12345radha/Leetcode_Practice/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
