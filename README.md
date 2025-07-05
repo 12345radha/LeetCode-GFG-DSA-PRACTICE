@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/12345radha/Leetcode_Practice/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/12345radha/Leetcode_Practice/tree/master/0387-first-unique-character-in-a-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -35,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/12345radha/Leetcode_Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/12345radha/Leetcode_Practice/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/12345radha/Leetcode_Practice/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/12345radha/Leetcode_Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/12345radha/Leetcode_Practice/tree/master/0451-sort-characters-by-frequency) |
 | [1023-time-based-key-value-store](https://github.com/12345radha/Leetcode_Practice/tree/master/1023-time-based-key-value-store) |
 | [1078-remove-outermost-parentheses](https://github.com/12345radha/Leetcode_Practice/tree/master/1078-remove-outermost-parentheses) |
@@ -98,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0205-isomorphic-strings](https://github.com/12345radha/Leetcode_Practice/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/12345radha/Leetcode_Practice/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/12345radha/Leetcode_Practice/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/12345radha/Leetcode_Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/12345radha/Leetcode_Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/12345radha/Leetcode_Practice/tree/master/0594-longest-harmonious-subsequence) |
 | [1023-time-based-key-value-store](https://github.com/12345radha/Leetcode_Practice/tree/master/1023-time-based-key-value-store) |
@@ -133,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/12345radha/Leetcode_Practice/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/12345radha/Leetcode_Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/12345radha/Leetcode_Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/12345radha/Leetcode_Practice/tree/master/0594-longest-harmonious-subsequence) |
 ## Greedy
