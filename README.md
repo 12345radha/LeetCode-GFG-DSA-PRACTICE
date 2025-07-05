@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/12345radha/Leetcode_Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/12345radha/Leetcode_Practice/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/12345radha/Leetcode_Practice/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/12345radha/Leetcode_Practice/tree/master/0451-sort-characters-by-frequency) |
 | [1023-time-based-key-value-store](https://github.com/12345radha/Leetcode_Practice/tree/master/1023-time-based-key-value-store) |
 | [1078-remove-outermost-parentheses](https://github.com/12345radha/Leetcode_Practice/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/12345radha/Leetcode_Practice/tree/master/2032-largest-odd-number-in-string) |
@@ -95,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/12345radha/Leetcode_Practice/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/12345radha/Leetcode_Practice/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/12345radha/Leetcode_Practice/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/12345radha/Leetcode_Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/12345radha/Leetcode_Practice/tree/master/0594-longest-harmonious-subsequence) |
 | [1023-time-based-key-value-store](https://github.com/12345radha/Leetcode_Practice/tree/master/1023-time-based-key-value-store) |
 ## Math
@@ -122,10 +124,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/12345radha/Leetcode_Practice/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/12345radha/Leetcode_Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/12345radha/Leetcode_Practice/tree/master/0594-longest-harmonious-subsequence) |
 ## Counting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/12345radha/Leetcode_Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/12345radha/Leetcode_Practice/tree/master/0594-longest-harmonious-subsequence) |
 ## Greedy
 |  |
@@ -139,4 +143,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/12345radha/Leetcode_Practice/tree/master/0005-longest-palindromic-substring) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/12345radha/Leetcode_Practice/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/12345radha/Leetcode_Practice/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
