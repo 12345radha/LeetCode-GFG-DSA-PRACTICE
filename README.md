@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0155-min-stack](https://github.com/12345radha/Leetcode_Practice/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/12345radha/Leetcode_Practice/tree/master/0232-implement-queue-using-stacks) |
 | [1023-time-based-key-value-store](https://github.com/12345radha/Leetcode_Practice/tree/master/1023-time-based-key-value-store) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/12345radha/Leetcode_Practice/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Queue
 |  |
 | ------- |
@@ -54,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/12345radha/Leetcode_Practice/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/12345radha/Leetcode_Practice/tree/master/0594-longest-harmonious-subsequence) |
 | [1206-corporate-flight-bookings](https://github.com/12345radha/Leetcode_Practice/tree/master/1206-corporate-flight-bookings) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/12345radha/Leetcode_Practice/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/12345radha/Leetcode_Practice/tree/master/2144-maximum-difference-between-increasing-elements) |
 ## Simulation
 |  |
@@ -104,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0451-sort-characters-by-frequency](https://github.com/12345radha/Leetcode_Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/12345radha/Leetcode_Practice/tree/master/0594-longest-harmonious-subsequence) |
 | [1023-time-based-key-value-store](https://github.com/12345radha/Leetcode_Practice/tree/master/1023-time-based-key-value-store) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/12345radha/Leetcode_Practice/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Math
 |  |
 | ------- |
