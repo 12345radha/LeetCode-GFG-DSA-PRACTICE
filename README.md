@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/12345radha/Leetcode_Practice/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/12345radha/Leetcode_Practice/tree/master/0594-longest-harmonious-subsequence) |
 | [1206-corporate-flight-bookings](https://github.com/12345radha/Leetcode_Practice/tree/master/1206-corporate-flight-bookings) |
+| [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/12345radha/Leetcode_Practice/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/12345radha/Leetcode_Practice/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/12345radha/Leetcode_Practice/tree/master/2144-maximum-difference-between-increasing-elements) |
 ## Simulation
