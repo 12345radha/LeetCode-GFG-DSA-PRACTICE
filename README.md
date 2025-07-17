@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0435-non-overlapping-intervals](https://github.com/12345radha/Leetcode_Practice/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/12345radha/Leetcode_Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/12345radha/Leetcode_Practice/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/12345radha/Leetcode_Practice/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/12345radha/Leetcode_Practice/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/12345radha/Leetcode_Practice/tree/master/0594-longest-harmonious-subsequence) |
 | [1206-corporate-flight-bookings](https://github.com/12345radha/Leetcode_Practice/tree/master/1206-corporate-flight-bookings) |
@@ -154,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0451-sort-characters-by-frequency](https://github.com/12345radha/Leetcode_Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/12345radha/Leetcode_Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/12345radha/Leetcode_Practice/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/12345radha/Leetcode_Practice/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/12345radha/Leetcode_Practice/tree/master/0594-longest-harmonious-subsequence) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/12345radha/Leetcode_Practice/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/12345radha/Leetcode_Practice/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -170,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0435-non-overlapping-intervals](https://github.com/12345radha/Leetcode_Practice/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/12345radha/Leetcode_Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/12345radha/Leetcode_Practice/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/12345radha/Leetcode_Practice/tree/master/0561-array-partition) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/12345radha/Leetcode_Practice/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2032-largest-odd-number-in-string](https://github.com/12345radha/Leetcode_Practice/tree/master/2032-largest-odd-number-in-string) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/12345radha/Leetcode_Practice/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -205,4 +208,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/12345radha/Leetcode_Practice/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/12345radha/Leetcode_Practice/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
