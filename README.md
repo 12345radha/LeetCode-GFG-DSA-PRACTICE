@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0451-sort-characters-by-frequency](https://github.com/12345radha/Leetcode_Practice/tree/master/0451-sort-characters-by-frequency) |
 | [1023-time-based-key-value-store](https://github.com/12345radha/Leetcode_Practice/tree/master/1023-time-based-key-value-store) |
 | [1078-remove-outermost-parentheses](https://github.com/12345radha/Leetcode_Practice/tree/master/1078-remove-outermost-parentheses) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/12345radha/Leetcode_Practice/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/12345radha/Leetcode_Practice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2032-largest-odd-number-in-string](https://github.com/12345radha/Leetcode_Practice/tree/master/2032-largest-odd-number-in-string) |
 | [2128-reverse-prefix-of-word](https://github.com/12345radha/Leetcode_Practice/tree/master/2128-reverse-prefix-of-word) |
