@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/12345radha/Leetcode_Practice/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/12345radha/Leetcode_Practice/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/12345radha/Leetcode_Practice/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2316-count-hills-and-valleys-in-an-array](https://github.com/12345radha/Leetcode_Practice/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/12345radha/Leetcode_Practice/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Simulation
 |  |
