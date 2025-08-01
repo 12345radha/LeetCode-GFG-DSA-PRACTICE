@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/12345radha/Leetcode_Practice/tree/master/0014-longest-common-prefix) |
+| [0118-pascals-triangle](https://github.com/12345radha/Leetcode_Practice/tree/master/0118-pascals-triangle) |
 | [0130-surrounded-regions](https://github.com/12345radha/Leetcode_Practice/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/12345radha/Leetcode_Practice/tree/master/0200-number-of-islands) |
 | [0347-top-k-frequent-elements](https://github.com/12345radha/Leetcode_Practice/tree/master/0347-top-k-frequent-elements) |
@@ -190,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/12345radha/Leetcode_Practice/tree/master/0005-longest-palindromic-substring) |
+| [0118-pascals-triangle](https://github.com/12345radha/Leetcode_Practice/tree/master/0118-pascals-triangle) |
 | [0435-non-overlapping-intervals](https://github.com/12345radha/Leetcode_Practice/tree/master/0435-non-overlapping-intervals) |
 ## Heap (Priority Queue)
 |  |
