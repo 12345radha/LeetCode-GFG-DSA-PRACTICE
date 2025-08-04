@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/12345radha/Leetcode_Practice/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/12345radha/Leetcode_Practice/tree/master/0014-longest-common-prefix) |
 | [0118-pascals-triangle](https://github.com/12345radha/Leetcode_Practice/tree/master/0118-pascals-triangle) |
 | [0130-surrounded-regions](https://github.com/12345radha/Leetcode_Practice/tree/master/0130-surrounded-regions) |
@@ -118,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/12345radha/Leetcode_Practice/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/12345radha/Leetcode_Practice/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/12345radha/Leetcode_Practice/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/12345radha/Leetcode_Practice/tree/master/0242-valid-anagram) |
