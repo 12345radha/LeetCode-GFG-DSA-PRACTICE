@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/12345radha/Leetcode_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/12345radha/Leetcode_Practice/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/12345radha/Leetcode_Practice/tree/master/0200-number-of-islands) |
+| [0217-contains-duplicate](https://github.com/12345radha/Leetcode_Practice/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/12345radha/Leetcode_Practice/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/12345radha/Leetcode_Practice/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/12345radha/Leetcode_Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -123,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/12345radha/Leetcode_Practice/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/12345radha/Leetcode_Practice/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/12345radha/Leetcode_Practice/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/12345radha/Leetcode_Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/12345radha/Leetcode_Practice/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/12345radha/Leetcode_Practice/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/12345radha/Leetcode_Practice/tree/master/0387-first-unique-character-in-a-string) |
@@ -158,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/12345radha/Leetcode_Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/12345radha/Leetcode_Practice/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/12345radha/Leetcode_Practice/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/12345radha/Leetcode_Practice/tree/master/0435-non-overlapping-intervals) |
