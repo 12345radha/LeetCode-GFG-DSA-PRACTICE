@@ -143,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0202-happy-number](https://github.com/12345radha/Leetcode_Practice/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/12345radha/Leetcode_Practice/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/12345radha/Leetcode_Practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/12345radha/Leetcode_Practice/tree/master/0342-power-of-four) |
 | [0415-add-strings](https://github.com/12345radha/Leetcode_Practice/tree/master/0415-add-strings) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/12345radha/Leetcode_Practice/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -247,5 +248,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/12345radha/Leetcode_Practice/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/12345radha/Leetcode_Practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/12345radha/Leetcode_Practice/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
