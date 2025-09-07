@@ -1,5 +1,6 @@
 class Solution {
     public List<List<Integer>> generate(int n) {
+        
         List<List<Integer>> d = new ArrayList<>();
         for (int i = 0; i < n; i++) {
             List<Integer> temp = new ArrayList<>();
