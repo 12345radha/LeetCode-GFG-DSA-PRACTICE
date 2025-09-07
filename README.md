@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/12345radha/Leetcode_Practice/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/12345radha/Leetcode_Practice/tree/master/0014-longest-common-prefix) |
 | [0053-maximum-subarray](https://github.com/12345radha/Leetcode_Practice/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/12345radha/Leetcode_Practice/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/12345radha/Leetcode_Practice/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/12345radha/Leetcode_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/12345radha/Leetcode_Practice/tree/master/0130-surrounded-regions) |
@@ -118,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/12345radha/Leetcode_Practice/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/12345radha/Leetcode_Practice/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/12345radha/Leetcode_Practice/tree/master/0200-number-of-islands) |
 ## Prefix Sum
@@ -129,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/12345radha/Leetcode_Practice/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/12345radha/Leetcode_Practice/tree/master/0073-set-matrix-zeroes) |
 | [0202-happy-number](https://github.com/12345radha/Leetcode_Practice/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/12345radha/Leetcode_Practice/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/12345radha/Leetcode_Practice/tree/master/0217-contains-duplicate) |
