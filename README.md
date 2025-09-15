@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0647-palindromic-substrings](https://github.com/12345radha/Leetcode_Practice/tree/master/0647-palindromic-substrings) |
 | [1023-time-based-key-value-store](https://github.com/12345radha/Leetcode_Practice/tree/master/1023-time-based-key-value-store) |
 | [1078-remove-outermost-parentheses](https://github.com/12345radha/Leetcode_Practice/tree/master/1078-remove-outermost-parentheses) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/12345radha/Leetcode_Practice/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/12345radha/Leetcode_Practice/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/12345radha/Leetcode_Practice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2032-largest-odd-number-in-string](https://github.com/12345radha/Leetcode_Practice/tree/master/2032-largest-odd-number-in-string) |
@@ -142,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0575-distribute-candies](https://github.com/12345radha/Leetcode_Practice/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/12345radha/Leetcode_Practice/tree/master/0594-longest-harmonious-subsequence) |
 | [1023-time-based-key-value-store](https://github.com/12345radha/Leetcode_Practice/tree/master/1023-time-based-key-value-store) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/12345radha/Leetcode_Practice/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/12345radha/Leetcode_Practice/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Math
 |  |
