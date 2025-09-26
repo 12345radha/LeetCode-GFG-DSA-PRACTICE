@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/12345radha/Leetcode_Practice/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/12345radha/Leetcode_Practice/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/12345radha/Leetcode_Practice/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/12345radha/Leetcode_Practice/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/12345radha/Leetcode_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/12345radha/Leetcode_Practice/tree/master/0130-surrounded-regions) |
 | [0152-maximum-product-subarray](https://github.com/12345radha/Leetcode_Practice/tree/master/0152-maximum-product-subarray) |
@@ -217,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/12345radha/Leetcode_Practice/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/12345radha/Leetcode_Practice/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/12345radha/Leetcode_Practice/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/12345radha/Leetcode_Practice/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/12345radha/Leetcode_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/12345radha/Leetcode_Practice/tree/master/0152-maximum-product-subarray) |
 | [0435-non-overlapping-intervals](https://github.com/12345radha/Leetcode_Practice/tree/master/0435-non-overlapping-intervals) |
