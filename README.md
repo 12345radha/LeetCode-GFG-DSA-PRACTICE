@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/12345radha/Leetcode_Practice/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/12345radha/Leetcode_Practice/tree/master/0014-longest-common-prefix) |
+| [0046-permutations](https://github.com/12345radha/Leetcode_Practice/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/12345radha/Leetcode_Practice/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/12345radha/Leetcode_Practice/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/12345radha/Leetcode_Practice/tree/master/0118-pascals-triangle) |
@@ -265,4 +266,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/12345radha/Leetcode_Practice/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/12345radha/Leetcode_Practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/12345radha/Leetcode_Practice/tree/master/0342-power-of-four) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/12345radha/Leetcode_Practice/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
