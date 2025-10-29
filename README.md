@@ -166,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/12345radha/Leetcode_Practice/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2032-largest-odd-number-in-string](https://github.com/12345radha/Leetcode_Practice/tree/master/2032-largest-odd-number-in-string) |
 | [3568-find-the-key-of-the-numbers](https://github.com/12345radha/Leetcode_Practice/tree/master/3568-find-the-key-of-the-numbers) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/12345radha/Leetcode_Practice/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Tree
 |  |
 | ------- |
@@ -266,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0231-power-of-two](https://github.com/12345radha/Leetcode_Practice/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/12345radha/Leetcode_Practice/tree/master/0342-power-of-four) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/12345radha/Leetcode_Practice/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Recursion
 |  |
 | ------- |
